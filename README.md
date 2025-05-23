@@ -24,8 +24,5 @@ All dependencies are listed in `requirements.txt`
 4. Run the notebook: `jupyter lab`
 5. Open and execute `email_spam_detection.ipynb`
 
-## 📷 Screenshots
-![Confusion Matrix Heatmap](screenshots/confusion_matrix.png) *(Add this manually if desired)*
-
 ## 🤖 Author
 This project was developed as part of a Data Mining course.
