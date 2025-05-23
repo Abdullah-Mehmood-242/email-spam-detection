@@ -3,7 +3,7 @@
 This project applies machine learning techniques to classify emails as spam or ham (not spam) using text classification. The model is built using Python and Scikit-learn, and trained on the popular SMS Spam Collection Dataset.
 
 ## 📁 Dataset
-Dataset used: [SMS Spam Collection Dataset (UCI)](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) or [Kaggle version](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+Dataset used: [SMS Spam Collection Dataset (UCI)](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) or [Kaggle version](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset), I used Kaggle version
 
 ## 🧠 ML Techniques Used
 - Text preprocessing
