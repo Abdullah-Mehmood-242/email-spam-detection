@@ -25,4 +25,4 @@ All dependencies are listed in `requirements.txt`
 5. Open and execute `email_spam_detection.ipynb`
 
 ## 🤖 Author
-This project was developed as part of a Data Mining course.
+This project was developed by Abdullah Mehmood as part of a Data Mining course.
